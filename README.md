@@ -30,25 +30,17 @@ software projects and learning new technologies.
 
 ## 🚀 Projects
 
-### 📸 Photography Management System
-A web platform where photographers can upload and manage photos
-and users can access their photos using unique IDs/QR codes.
+### 📱 MESA (Mechanical Engineering Students Association) Application
+Developed and deployed a dedicated department management application to 
+streamline student updates, events, notices, and academic activities in one centralized platform.
 
-**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
-
----
-
-### 🔐 Digital Identity & KYC Vault
-A blockchain-based project exploring Zero-Knowledge Proofs
-for privacy-preserving digital identity verification.
-
-**Tech:** Blockchain, ZKP, Web Development
+**Tech:** Flutter, Dart, MySQL, API, Android studio
 
 ---
 
-### ⚡ EV Charging Website
-Frontend application for finding and interacting with
-EV charging-related services.
+### ⚡**Food Delivery Website**
+Developed a responsive frontend application for 
+browsing restaurants, exploring food items, and placing food orders online.
 
 **Tech:** HTML, CSS, JavaScript
 
